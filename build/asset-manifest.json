@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.c3ee1315.js",
+    "static/js/787.573ea6bb.chunk.js": "/static/js/787.573ea6bb.chunk.js",
+    "static/media/major1.png": "/static/media/major1.f11feb20883ae0b4231b.png",
+    "static/media/sun.png": "/static/media/sun.722327dc834e8691e1e1.png",
+    "static/media/earth.png": "/static/media/earth.c0d66728dfef669ec05d.png",
+    "static/media/bloomberg1.png": "/static/media/bloomberg1.fbf6ff15bb255d61fdd4.png",
+    "static/media/BSCDAO(1).png": "/static/media/BSCDAO(1).110dcbdc6054631035a1.png",
+    "static/media/p4.png": "/static/media/p4.82dcadd2e88e1a04cabd.png",
+    "static/media/mission.png": "/static/media/mission.2790b05fb9f731d98985.png",
+    "static/media/bscdao2.png": "/static/media/bscdao2.fe9169c5550e44ccaa9b.png",
+    "static/media/Disclamair.png": "/static/media/Disclamair.b3cc04bd4c603568ef36.png",
+    "static/media/p2.png": "/static/media/p2.0034cec5ce5c30e986e8.png",
+    "static/media/calcu.png": "/static/media/calcu.fd86be7613b18c82b477.png",
+    "static/media/p1.png": "/static/media/p1.361b2c3b8495479761d0.png",
+    "static/media/bloomberg2.png": "/static/media/bloomberg2.60e411eae7f16f8429e7.png",
+    "static/media/World.png": "/static/media/World.e7893ded30527b0121ed.png",
+    "static/media/coinmarket.png": "/static/media/coinmarket.04e45d8c71230ef888a4.png",
+    "static/media/bscdao1.png": "/static/media/bscdao1.cc12107596595044b929.png",
+    "static/media/p3.png": "/static/media/p3.f27f97e8ee83247daa96.png",
+    "static/media/high.png": "/static/media/high.47300224053f36d41415.png",
+    "static/media/investing.png": "/static/media/investing.4c9f8dea868a5a2ede70.png",
+    "static/media/interfi.png": "/static/media/interfi.186d5ff53b846d86d012.png",
+    "static/media/pancake.png": "/static/media/pancake.c05559da00b72b05b5e2.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.c3ee1315.js.map": "/static/js/main.c3ee1315.js.map",
+    "787.573ea6bb.chunk.js.map": "/static/js/787.573ea6bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c3ee1315.js"
+  ]
+}
